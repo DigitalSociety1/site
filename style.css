@@ -91,11 +91,43 @@ body {
   padding-top: 48px;
   font-family: 'Righteous', cursive;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 28px;
   color: #111111;
   margin-bottom: 16px;
 }
 
+.conteudo-secundario-titulo2 {
+  border-top: 0.6px solid #201e1c;
+  padding-top: 48px;
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 28px;
+  color: #111111;
+  margin-bottom: 16px;
+}
+
+.pontos{
+  padding-top: 48px;
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 24px;
+  color: #111111;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.topicos {
+  width: 90ch;
+  text-align: center;
+  font-family: 'Sarala', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #201e1c;
+}
+
+.tabela {
+  max-width: 1800px;
+}
 .conteudo-secundario-paragrafo {
   width: 90ch;
   text-align: center;
@@ -122,6 +154,7 @@ a:link {
   a:hover {
   text-decoration: underline;
  }
+
 
 #dark-mode-input {
   display: none;
