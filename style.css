@@ -126,7 +126,7 @@ body {
 }
 
 .ia1-1 {
-  width: 90ch;
+  width: 120ch;
   text-align: center;
   font-family: 'Sarala', sans-serif;
   font-weight: 300;
@@ -139,6 +139,17 @@ body {
   font-weight: 200;
   font-size: 24px;
   color: #991313;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.ia1-3 {
+  border-top: 0.6px solid #201e1c;
+  padding-top: 48px;
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 28px;
+  color: #111111;
   margin-bottom: 16px;
 }
 
@@ -172,3 +183,4 @@ a:link {
 a:hover {
   text-decoration: underline;
  }
+
