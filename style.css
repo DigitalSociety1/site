@@ -131,8 +131,18 @@ body {
   font-family: 'Sarala', sans-serif;
   font-weight: 300;
   font-size: 18px;
-  color: #201e1c
+  color: #201e1c;
 }
+
+.ia1-1-5 {
+  width: 100ch;
+  text-align: center;
+  font-family: 'Sarala', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #201e1c;
+} 
+
 
 .ia1-2 {
   font-family: 'Righteous', cursive;
