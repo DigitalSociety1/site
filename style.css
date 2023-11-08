@@ -8,7 +8,8 @@
 
 body {
   background-color: #fafafa;
-  color: #111111
+  color: #111111;
+    max-width: 1920px;
 }
 
 .cabecalho {
